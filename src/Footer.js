@@ -20,19 +20,19 @@ class Footer extends React.Component {
                 <li className="list-unstyled">
                   <a href="LINKEDIN" className="mx-1">
                     <img
-                      src="images/home/linkedin.png"
+                      src="images/Home/linkedin.png"
                       style={{ width: "3rem" }}
                     ></img>
                   </a>
                   <a href="FACEBOOK" className="mx-1">
                     <img
-                      src="images/home/facebook.png"
+                      src="images/Home/facebook.png"
                       style={{ width: "3rem" }}
                     ></img>
                   </a>
                   <a href="FACEBOOK" className="mx-1">
                     <img
-                      src="images/home/github.png"
+                      src="images/Home/github.png"
                       style={{ width: "3rem" }}
                     ></img>
                   </a>
