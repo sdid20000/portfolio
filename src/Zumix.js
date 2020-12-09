@@ -13,19 +13,22 @@ class Zumix extends React.Component {
     return (
       <div>
         <h1 className="text-center font-weight-bold mt-5">Zumix Redesign</h1>
-        <h4 class="text-center grey-text mb-5">Project created Oct. 20 2020</h4>
+        <h4 class="text-center grey-text">Project created Oct. 20 2020</h4>
+        <h5 class="text-center grey-text mb-5">Created by Michael Tu</h5>
         <div className="mx-auto animated fadeInUp w-50">
           <p class="text">
-            Here I'll be taking a look at the about page of the Boston
-            non-profit organization Zumix and redesigning it.
+            For my Responsive Redesign project for cs1300 at Brown University, I
+            chose the Zumix website to redesign and implement.
           </p>
           <h4 class="text-center">The Original Webpage</h4>
 
-          <img
-            id="zumix_page"
-            src="./images/Redesign/zumix_page.png"
-            className="mx-auto w-100"
-          ></img>
+          <a href="https://www.zumix.org/about">
+            <img
+              className="rounded w-100 mx-auto d-block hoverable border"
+              src="images/Redesign/zumix_page.png"
+            ></img>
+          </a>
+
           <p class="text">
             Taking a look at this UI. There are a couple of glaring issues wtih
             regards to usability, learnability, memorability, and accessibility.
@@ -131,19 +134,26 @@ class Zumix extends React.Component {
               className="mx-auto w-100"
             ></img>
 
-            <h3 class="text-center">Mobile</h3>
-            <img
-              id="lofi2"
-              src="images/Redesign/lo-fi2.png"
-              className="mx-auto w-100"
-            ></img>
-
-            <h3 class="text-center">Tablet</h3>
-            <img
-              id="lofi3"
-              src="images/Redesign/lo-fi3.png"
-              className="mx-auto w-100"
-            ></img>
+            <div className="container mt-5">
+              <div className="row">
+                <div className="col">
+                  <h3 class="text-center">Mobile</h3>
+                  <img
+                    id="lofi2"
+                    src="images/Redesign/lo-fi2.png"
+                    className="mx-auto w-100"
+                  ></img>
+                </div>
+                <div className="col">
+                  <h3 class="text-center">Tablet</h3>
+                  <img
+                    id="lofi3"
+                    src="images/Redesign/lo-fi3.png"
+                    className="mx-auto w-100"
+                  ></img>
+                </div>
+              </div>
+            </div>
           </MDBAnimation>
           <MDBAnimation reveal type="fadeInUp">
             <h2 class="text-center mt-5 font-weight-bold">
@@ -157,19 +167,26 @@ class Zumix extends React.Component {
               className="mx-auto w-100"
             ></img>
 
-            <h3 class="text-center">Mobile</h3>
-            <img
-              id="hifi2"
-              src="images/Redesign/hi-fi2.png"
-              className="mx-auto w-100"
-            ></img>
-
-            <h3 class="text-center">Tablet</h3>
-            <img
-              id="hifi3"
-              src="images/Redesign/hi-fi3.png"
-              className="mx-auto w-100"
-            ></img>
+            <div className="container mt-5">
+              <div className="row">
+                <div className="col">
+                  <h3 class="text-center">Mobile</h3>
+                  <img
+                    id="hifi2"
+                    src="images/Redesign/hi-fi2.png"
+                    className="mx-auto w-100"
+                  ></img>
+                </div>
+                <div className="col">
+                  <h3 class="text-center">Tablet</h3>
+                  <img
+                    id="hifi3"
+                    src="images/Redesign/hi-fi3.png"
+                    className="mx-auto w-100"
+                  ></img>
+                </div>
+              </div>
+            </div>
           </MDBAnimation>
           <MDBAnimation reveal type="fadeInUp">
             <h2 class="text-center mt-5 font-weight-bold">
@@ -191,11 +208,12 @@ class Zumix extends React.Component {
               </a>{" "}
               Here is a snapshot of what the finished product looks like
             </p>
-            <img
-              id="webpage"
-              src="images/Redesign/webpage.png"
-              className="mx-auto w-100"
-            ></img>
+            <a href="https://agile-ravine-26502.herokuapp.com/">
+              <img
+                className="rounded w-100 mx-auto d-block hoverable border"
+                src="images/Redesign/webpage.png"
+              ></img>
+            </a>
 
             <h2 class="text-center font-weight-bold mt-5">Final Thoughts</h2>
             <p class="text">

@@ -18,10 +18,18 @@ class Music extends React.Component {
         <MDBAnimation reveal type="fadeIn">
           <div className="mx-auto my-6 w-50">
             <AwesomeSlider>
-              <div data-src="/images/Music/music-1.png"></div>
-              <div data-src="/images/Music/music-2.png"></div>
-              <div data-src="/images/Music/music-3.png"></div>
+              <div data-src="/images/Music/music.jpg"></div>
+              <div data-src="/images/Music/music2.jpg"></div>
+              <div data-src="/images/Music/music3.jpg"></div>
             </AwesomeSlider>
+          </div>
+          <div className="mx-auto text-center my-5">
+            <a
+              class="btn mx-auto"
+              href="https://drive.google.com/drive/folders/1nfZLzmb0iqos69ZSu-9V26iFi-lwg95b?usp=sharing"
+            >
+              <i class="fas fa-music"></i> View All Sheet Music
+            </a>
           </div>
         </MDBAnimation>
 
@@ -53,11 +61,11 @@ class Music extends React.Component {
               >
                 <a
                   href="https://soundcloud.com/user-693612376"
-                  title="UsernameHere"
+                  title="Michael Tu"
                   target="_blank"
                   style={{ color: "#cccccc", textDecoration: "none" }}
                 >
-                  UsernameHere
+                  Michael Tu{" "}
                 </a>{" "}
                 ·{" "}
                 <a
@@ -96,11 +104,11 @@ class Music extends React.Component {
                 {" "}
                 <a
                   href="https://soundcloud.com/user-693612376"
-                  title="UsernameHere"
+                  title="Michael Tu"
                   target="_blank"
                   style={{ color: "#cccccc", textDecoration: "none" }}
                 >
-                  UsernameHere
+                  Michael Tu
                 </a>{" "}
                 ·{" "}
                 <a
@@ -139,11 +147,11 @@ class Music extends React.Component {
                 {" "}
                 <a
                   href="https://soundcloud.com/user-693612376"
-                  title="UsernameHere"
+                  title="Michael Tu"
                   target="_blank"
                   style={{ color: "#cccccc", textDecoration: "none" }}
                 >
-                  UsernameHere
+                  Michael Tu
                 </a>{" "}
                 ·{" "}
                 <a
@@ -184,11 +192,11 @@ class Music extends React.Component {
                 {" "}
                 <a
                   href="https://soundcloud.com/user-693612376"
-                  title="UsernameHere"
+                  title="Michael Tu"
                   target="_blank"
                   style={{ color: "#cccccc", textDecoration: "none" }}
                 >
-                  UsernameHere
+                  Michael Tu
                 </a>{" "}
                 ·{" "}
                 <a
@@ -227,11 +235,11 @@ class Music extends React.Component {
                 {" "}
                 <a
                   href="https://soundcloud.com/user-693612376"
-                  title="UsernameHere"
+                  title="Michael Tu"
                   target="_blank"
                   style={{ color: "#cccccc", textDecoration: "none" }}
                 >
-                  UsernameHere
+                  Michael Tu
                 </a>{" "}
                 ·{" "}
                 <a

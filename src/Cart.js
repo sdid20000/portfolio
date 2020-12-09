@@ -14,7 +14,8 @@ class Cart extends React.Component {
         <h1 className="text-center font-weight-bold mt-5">
           Shopping Cart Site
         </h1>
-        <h4 class="text-center grey-text mb-5">Project created Dec. 1 2020</h4>
+        <h4 class="text-center grey-text">Project created Dec. 1 2020</h4>
+        <h5 class="text-center grey-text mb-5">Created by Michael Tu</h5>
         <div className="mx-auto animated fadeInUp w-50 ">
           <h4 className="mt-4 mb-3 text-center">Overview</h4>
           <p>

@@ -11,21 +11,20 @@ class Home extends React.Component {
           <MDBAnimation reveal type="fadeIn">
             <div className="mx-auto mt-5 w-50">
               <img
-                src="images\Home\profile-pic.jpg"
+                src="images\Home\profile-pic.webp"
                 className="rounded mx-auto d-block shadow"
-                style={{ width: "200px" }}
+                style={{ width: "20rem" }}
               ></img>
-              <h1 className="text-center mt-5">First Name, Last Name</h1>
+              <h1 className="text-center mt-5">Michael Tu</h1>
 
               <p>
-                Here is a little bit about me, etc. etc. Lorem ipsum dolor sit
-                amet, consectetur adipiscing elit, sed do eiusmod tempor
-                incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-                veniam, quis nostrud exercitation ullamco laboris nisi ut
-                aliquip ex ea commodo consequat. Duis aute irure dolor in
-                reprehenderit in voluptate velit esse cillum dolore eu fugiat
-                nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-                sunt in culpa qui officia deserunt mollit anim id est laborum.
+                Hello! My Name is Michael Tu and I am a junior at Brown
+                University studying computer science and music. For computer
+                science I am focusing on software engineering and software
+                design, whiel for music I am focusing on theory and composition
+                . Below you can find some of my most recent projects including
+                projects in UI/UX, software engineering, composition, and
+                arrangement.
               </p>
             </div>
           </MDBAnimation>
@@ -131,11 +130,11 @@ class Home extends React.Component {
                   >
                     <a
                       href="https://soundcloud.com/user-693612376"
-                      title="UsernameHere"
+                      title="Michael Tu"
                       target="_blank"
                       style={{ color: "#cccccc", textDecoration: "none" }}
                     >
-                      UsernameHere
+                      Michael Tu
                     </a>{" "}
                     ·{" "}
                     <a
@@ -174,11 +173,11 @@ class Home extends React.Component {
                     {" "}
                     <a
                       href="https://soundcloud.com/user-693612376"
-                      title="UsernameHere"
+                      title="Michael Tu"
                       target="_blank"
                       style={{ color: "#cccccc", textDecoration: "none" }}
                     >
-                      UsernameHere
+                      Michael Tu
                     </a>{" "}
                     ·{" "}
                     <a

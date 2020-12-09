@@ -5,7 +5,7 @@ class MyNavbar extends React.Component {
   render() {
     return (
       <Navbar bg="light" expand="lg" sticky="top">
-        <Navbar.Brand href="/">First Name, Last Name</Navbar.Brand>
+        <Navbar.Brand href="/">Michael Tu</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="mr-auto">

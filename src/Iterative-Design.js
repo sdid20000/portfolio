@@ -14,9 +14,17 @@ class IterativeDesign extends React.Component {
         <h1 class="text-center mt-5 font-weight-bold">
           Iterative Design and Evaluation
         </h1>
-        <h4 class="text-center grey-text mb-5">Project created Nov. 10 2020</h4>
+        <h4 class="text-center grey-text">Project created Nov. 10 2020</h4>
+        <h5 class="text-center grey-text mb-5">
+          Created by Michael Tu, Vivian Li, Ethan Pan
+        </h5>
         <MDBAnimation reveal type="fadeInUp">
           <div className="mx-auto w-50">
+            <p>
+              For our cs1300 Iterative-Design project at Brown University, we
+              went through the iterative design process for a website. Teams of
+              2-4 people chose a start-up company and designed a website for it.
+            </p>
             <h2 class="text-center font-weight-bold">
               Sketching & Wireframing
             </h2>

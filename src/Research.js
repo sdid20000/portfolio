@@ -14,7 +14,7 @@ class Research extends React.Component {
         <h1 class="text-center mt-5 font-weight-bold">ReSearch</h1>
         <h4 class="text-center grey-text">Project created May 16, 2020</h4>
         <h5 class="text-center grey-text mb-5">
-          Created by Joe, Bob, Billy, Josh
+          Created by Michael Tu, Joseph Han, Tom Liu, Andrew Kim
         </h5>
 
         <MDBAnimation reveal type="fadeInUp">
@@ -141,7 +141,7 @@ class Research extends React.Component {
             <table class="table">
               <tbody>
                 <tr>
-                  <th scope="row">Billy Bob</th>
+                  <th scope="row">Andrew Kim</th>
                   <td>
                     Python server (word2vec, vectorizing paragraphs and phrases,
                     access Azure cognitive service), Json Utility functions,
@@ -149,20 +149,20 @@ class Research extends React.Component {
                   </td>
                 </tr>
                 <tr>
-                  <th scope="row">Josh person</th>
+                  <th scope="row">Michael Tu</th>
                   <td>
                     KMeans++ algorithm, front end graph page and implementation.
                   </td>
                 </tr>
                 <tr>
-                  <th scope="row">Joe Schmoe</th>
+                  <th scope="row">Joseph Han</th>
                   <td>
                     Data retrieval and cleaning, front end results page design
                     and implementation.
                   </td>
                 </tr>
                 <tr>
-                  <th scope="row">Larry</th>
+                  <th scope="row">Tom Liu</th>
                   <td>
                     Locality Sensitive hashing, nearest neighbors search,
                     research paper and researcher representation.

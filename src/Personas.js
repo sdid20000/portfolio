@@ -16,9 +16,9 @@ class Personas extends React.Component {
           <h1 class="text-center font-weight-bold mt-5" id="TitleName">
             Taking a look at Home Oven UI
           </h1>
-          <h4 class="text-center grey-text mb-5">
-            Project created Oct. 6 2020
-          </h4>
+
+          <h4 class="text-center grey-text">Project created Oct. 6 2020</h4>
+          <h5 class="text-center grey-text mb-5">Created by Michael Tu</h5>
           <p class>
             Here I'll be taking a look at the user-interface of a home oven.
             Here you will find a collection of user experiences, interviews,
@@ -27,12 +27,12 @@ class Personas extends React.Component {
         </div>
         <MDBAnimation reveal type="fadeInUp">
           <h2 class="text-center font-weight-bold mt-5">The Interface</h2>
-          <img
-            id="OvenUI"
-            src="./images/Personas/OvenInterface.png"
-            className="w-75 mx-auto d-block border rounded mb-4"
-          ></img>
           <div className="w-50 mx-auto">
+            <img
+              id="OvenUI"
+              src="./images/Personas/OvenInterface.png"
+              className="w-75 mx-auto d-block border rounded mb-4"
+            ></img>
             <p class="text">
               The main point of this interface is to present all of the
               different options available to a cook while still being intuitive
@@ -170,7 +170,7 @@ class Personas extends React.Component {
 
         <MDBAnimation reveal type="fadeInUp">
           <h2 class="text-center font-weight-bold mt-5">Personas</h2>
-          <div className="container w-75">
+          <div className="container w-50">
             <div className="row">
               <div className="col">
                 <h3 class="text-center">Family-Man Barry</h3>
@@ -212,7 +212,7 @@ class Personas extends React.Component {
             </p>
           </div>
 
-          <div class="w-75 mx-auto">
+          <div class="w-50 mx-auto">
             <div>
               <img
                 class="w-100 mx-auto"
