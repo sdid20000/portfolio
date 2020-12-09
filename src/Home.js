@@ -21,7 +21,7 @@ class Home extends React.Component {
                 Hello! My Name is Michael Tu and I am a junior at Brown
                 University studying computer science and music. For computer
                 science I am focusing on software engineering and software
-                design, whiel for music I am focusing on theory and composition
+                design, while for music I am focusing on theory and composition
                 . Below you can find some of my most recent projects including
                 projects in UI/UX, software engineering, composition, and
                 arrangement.
