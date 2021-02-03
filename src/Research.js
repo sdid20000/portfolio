@@ -43,7 +43,7 @@ class Research extends React.Component {
           </div>
 
           <img
-            src="images/ReSearch/query.png"
+            src="images\ReSearch\query.png"
             className="d-block mx-auto w-75 border rounded shadow my-5"
           ></img>
         </MDBAnimation>
@@ -128,7 +128,7 @@ class Research extends React.Component {
           </div>
 
           <img
-            src="images/ReSearch/results.png"
+            src="images\ReSearch\results.png"
             className="d-block mx-auto w-75 border rounded shadow my-5"
           ></img>
         </MDBAnimation>

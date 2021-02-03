@@ -60,19 +60,19 @@ class IterativeDesign extends React.Component {
             <div class="row">
               <div class="col w-25">
                 <img
-                  src="images/Iterative-Design/1_Home_Page.jpg"
+                  src="images\Iterative-Design\1_Home_Page.jpg"
                   style={{ width: "100%" }}
                 ></img>
               </div>
               <div class="col w-25">
                 <img
-                  src="images/Iterative-Design/1_PreOrder_Page.jpg"
+                  src="images\Iterative-Design\1_PreOrder_Page.jpg"
                   style={{ width: "100%" }}
                 ></img>
               </div>
               <div class="col w-25">
                 <img
-                  src="images/Iterative-Design/1_Product_Page.jpg"
+                  src="images\Iterative-Design\1_Product_Page.jpg"
                   style={{ width: "100%" }}
                 ></img>
               </div>
@@ -82,19 +82,19 @@ class IterativeDesign extends React.Component {
             <div class="row">
               <div class="col w-25">
                 <img
-                  src="images/Iterative-Design/2_Home_Page.jpg"
+                  src="images\Iterative-Design\2_Home_Page.jpg"
                   style={{ width: "100%" }}
                 ></img>
               </div>
               <div class="col w-25">
                 <img
-                  src="images/Iterative-Design/2_PreOrder_Page.jpg"
+                  src="images\Iterative-Design\2_PreOrder_Page.jpg"
                   style={{ width: "100%" }}
                 ></img>
               </div>
               <div class="col w-25">
                 <img
-                  src="images/Iterative-Design/2_Product_Page.jpg"
+                  src="images\Iterative-Design\2_Product_Page.jpg"
                   style={{ width: "100%" }}
                 ></img>
               </div>
@@ -104,19 +104,19 @@ class IterativeDesign extends React.Component {
             <div class="row">
               <div class="col w-25">
                 <img
-                  src="images/Iterative-Design/3_Home_Page.jpg"
+                  src="images\Iterative-Design\3_Home_Page.jpg"
                   style={{ width: "100%" }}
                 ></img>
               </div>
               <div class="col w-25">
                 <img
-                  src="images/Iterative-Design/3_PreOrder_Page.jpg"
+                  src="images\Iterative-Design\3_PreOrder_Page.jpg"
                   style={{ width: "100%" }}
                 ></img>
               </div>
               <div class="col w-25">
                 <img
-                  src="images/Iterative-Design/3_Product_Page.jpg"
+                  src="images\Iterative-Design\3_Product_Page.jpg"
                   style={{ width: "100%" }}
                 ></img>
               </div>
@@ -126,19 +126,19 @@ class IterativeDesign extends React.Component {
             <div class="row">
               <div class="col w-25">
                 <img
-                  src="images/Iterative-Design/4_Home_Page.jpg"
+                  src="images\Iterative-Design\4_Home_Page.jpg"
                   style={{ width: "100%" }}
                 ></img>
               </div>
               <div class="col w-25">
                 <img
-                  src="images/Iterative-Design/4_PreOrder_Page.jpg"
+                  src="images\Iterative-Design\4_PreOrder_Page.jpg"
                   style={{ width: "100%" }}
                 ></img>
               </div>
               <div class="col w-25">
                 <img
-                  src="images/Iterative-Design/4_Product_Page.jpg"
+                  src="images\Iterative-Design\4_Product_Page.jpg"
                   style={{ width: "100%" }}
                 ></img>
               </div>
@@ -152,19 +152,19 @@ class IterativeDesign extends React.Component {
             <div class="row">
               <div class="col w-25">
                 <img
-                  src="images/Iterative-Design/Wireframe_1.jpg"
+                  src="images\Iterative-Design\Wireframe_1.jpg"
                   style={{ width: "100%" }}
                 ></img>
               </div>
               <div class="col w-25">
                 <img
-                  src="images/Iterative-Design/Wireframe_2.jpg"
+                  src="images\Iterative-Design\Wireframe_2.jpg"
                   style={{ width: "100%" }}
                 ></img>
               </div>
               <div class="col w-25">
                 <img
-                  src="images/Iterative-Design/Wireframe_3.jpg"
+                  src="images\Iterative-Design\Wireframe_3.jpg"
                   style={{ width: "100%" }}
                 ></img>
               </div>
