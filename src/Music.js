@@ -18,9 +18,9 @@ class Music extends React.Component {
         <MDBAnimation reveal type="fadeIn">
           <div className="mx-auto my-6 w-50">
             <AwesomeSlider>
-              <div data-src="images\Music\music.jpg"></div>
-              <div data-src="images\Music\music2.jpg"></div>
-              <div data-src="images\Music\music3.jpg"></div>
+              <div data-src="/images/Music/music.jpg"></div>
+              <div data-src="/images/Music/music2.jpg"></div>
+              <div data-src="/images/Music/music3.jpg"></div>
             </AwesomeSlider>
           </div>
           <div className="mx-auto text-center my-5">

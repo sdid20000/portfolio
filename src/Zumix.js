@@ -25,7 +25,7 @@ class Zumix extends React.Component {
           <a href="https://www.zumix.org/about">
             <img
               className="rounded w-100 mx-auto d-block hoverable border"
-              src="images\Redesign\zumix_page.png"
+              src="images/Redesign/zumix_page.png"
             ></img>
           </a>
 
@@ -130,7 +130,7 @@ class Zumix extends React.Component {
             <h3 class="text-center">Desktop</h3>
             <img
               id="lofi1"
-              src="images\Redesign\lo-fi1.png"
+              src="images/Redesign/lo-fi1.png"
               className="mx-auto w-100"
             ></img>
 
@@ -140,7 +140,7 @@ class Zumix extends React.Component {
                   <h3 class="text-center">Mobile</h3>
                   <img
                     id="lofi2"
-                    src="images\Redesign\lo-fi2.png"
+                    src="images/Redesign/lo-fi2.png"
                     className="mx-auto w-100"
                   ></img>
                 </div>
@@ -148,7 +148,7 @@ class Zumix extends React.Component {
                   <h3 class="text-center">Tablet</h3>
                   <img
                     id="lofi3"
-                    src="images\Redesign\lo-fi3.png"
+                    src="images/Redesign/lo-fi3.png"
                     className="mx-auto w-100"
                   ></img>
                 </div>
@@ -163,7 +163,7 @@ class Zumix extends React.Component {
             <h3 class="text-center">Desktop</h3>
             <img
               id="hifi1"
-              src="images\Redesign\hi-fi1.png"
+              src="images/Redesign/hi-fi1.png"
               className="mx-auto w-100"
             ></img>
 
@@ -173,7 +173,7 @@ class Zumix extends React.Component {
                   <h3 class="text-center">Mobile</h3>
                   <img
                     id="hifi2"
-                    src="images\Redesign\hi-fi2.png"
+                    src="images/Redesign/hi-fi2.png"
                     className="mx-auto w-100"
                   ></img>
                 </div>
@@ -181,7 +181,7 @@ class Zumix extends React.Component {
                   <h3 class="text-center">Tablet</h3>
                   <img
                     id="hifi3"
-                    src="images\Redesign\hi-fi3.png"
+                    src="images/Redesign/hi-fi3.png"
                     className="mx-auto w-100"
                   ></img>
                 </div>
@@ -194,7 +194,7 @@ class Zumix extends React.Component {
             </h2>
             <img
               id="style_guide"
-              src="images\Redesign\style_guide.png"
+              src="images/Redesign/style_guide.png"
               className="mx-auto w-100"
             ></img>
           </MDBAnimation>
@@ -211,7 +211,7 @@ class Zumix extends React.Component {
             <a href="https://agile-ravine-26502.herokuapp.com/">
               <img
                 className="rounded w-100 mx-auto d-block hoverable border"
-                src="images\Redesign\webpage.png"
+                src="images/Redesign/webpage.png"
               ></img>
             </a>
 

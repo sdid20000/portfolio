@@ -16,7 +16,7 @@ class Resume extends React.Component {
         <div class="d-flex justify-content-center">
           <a href="https://drive.google.com/file/d/1frIOTiuxWtQWGJR8r3i5OPc3m1wAVXwd/view?usp=sharing">
             <img
-              src="images\Resume\resume.png"
+              src="/images/Resume/resume.png"
               className="mx-auto d-block w-50 border rounded hoverable"
             ></img>
           </a>

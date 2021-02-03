@@ -30,7 +30,7 @@ class Personas extends React.Component {
           <div className="w-50 mx-auto">
             <img
               id="OvenUI"
-              src="images\Personas\OvenInterface.png"
+              src="./images/Personas/OvenInterface.png"
               className="w-75 mx-auto d-block border rounded mb-4"
             ></img>
             <p class="text">
@@ -175,7 +175,7 @@ class Personas extends React.Component {
               <div className="col">
                 <h3 class="text-center">Family-Man Barry</h3>
                 <img
-                  src="images\Personas\Barry.png"
+                  src="./images/Personas/Barry.png"
                   className="w-100 mx-auto border rounded"
                 ></img>
                 <p class="text-center">
@@ -189,7 +189,7 @@ class Personas extends React.Component {
               <div className="col">
                 <h3 class="text-center">Lazy Larry</h3>
                 <img
-                  src="images\Personas\Larry.png"
+                  src="./images/Personas/Larry.png"
                   className="w-100 mx-auto border rounded"
                 ></img>
                 <p class="text-center">
@@ -216,19 +216,19 @@ class Personas extends React.Component {
             <div>
               <img
                 class="w-100 mx-auto"
-                src="images\Personas\Storyboard_1.png"
+                src="images/Personas/Storyboard_1.png"
               ></img>
             </div>
             <div>
               <img
                 class="w-100 mx-auto"
-                src="images\Personas\Storyboard_2.png"
+                src="images/Personas/Storyboard_2.png"
               ></img>
             </div>
             <div>
               <img
                 class="w-100 mx-auto"
-                src="images\Personas\Storyboard_3.png"
+                src="images/Personas/Storyboard_3.png"
               ></img>
             </div>
           </div>
