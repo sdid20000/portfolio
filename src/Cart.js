@@ -29,7 +29,7 @@ class Cart extends React.Component {
           <a href="https://peaceful-gorge-03234.herokuapp.com/">
             <img
               className="rounded w-75 mx-auto d-block hoverable border"
-              src="images\\Cart\\development-screenshot.png"
+              src="images\Cart\development-screenshot.png"
             ></img>
           </a>
 
