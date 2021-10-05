@@ -11,6 +11,7 @@ import Zumix from "./Zumix.js";
 import Personas from "./Personas.js";
 import Research from "./Research.js";
 import Resume from "./Resume.js";
+import Buo from "./Buo.js";
 
 class App extends React.Component {
   componentDidMount() {
@@ -24,6 +25,9 @@ class App extends React.Component {
         <Router>
           <div>
             <Switch>
+              <Route path ="/Buo">
+                <Buo />
+              </Route>
               <Route path="/Cart">
                 <Cart />
               </Route>

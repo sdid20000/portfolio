@@ -18,7 +18,7 @@ class Home extends React.Component {
               <h1 className="text-center mt-5">Michael Tu</h1>
 
               <p>
-                Hello! My Name is Michael Tu and I am a junior at Brown
+                Hello! My Name is Michael Tu and I am a senior at Brown
                 University studying computer science and music. For computer
                 science I am focusing on software engineering and software
                 design, while for music I am focusing on theory and composition
@@ -33,7 +33,18 @@ class Home extends React.Component {
         <h1 className="text-center mt-5">Projects</h1>
 
         <div class="container my-5">
-          <div class="row my-5">
+        <div class="row my-5">
+            <div class="col">
+              <Link to="/Buo">
+                <MyCard
+                  src="images\Buo\buo-homepage.png"
+                  title="Brown University Orchestra Website"
+                  caption="Helped create the Brown University Orchestra Website using React."
+                  date="Project created in 2020"
+                  type="Other"
+                ></MyCard>
+              </Link>
+            </div>
             <div class="col">
               <Link to="/Cart">
                 <MyCard
@@ -45,7 +56,10 @@ class Home extends React.Component {
                 ></MyCard>
               </Link>
             </div>
+          </div>
 
+          
+          <div class="row my-5">
             <div class="col">
               <Link to="/Iterative-Design">
                 <MyCard
@@ -57,9 +71,6 @@ class Home extends React.Component {
                 ></MyCard>
               </Link>
             </div>
-          </div>
-
-          <div class="row my-5">
             <div class="col">
               <Link to="/Zumix-Redesign">
                 <MyCard
@@ -71,6 +82,9 @@ class Home extends React.Component {
                 ></MyCard>
               </Link>
             </div>
+          </div>
+
+          <div class="row my-5">
             <div class="col">
               <Link to="/Personas">
                 <MyCard
@@ -82,9 +96,6 @@ class Home extends React.Component {
                 ></MyCard>
               </Link>
             </div>
-          </div>
-
-          <div class="row my-5">
             <div class="col">
               <Link to="/Research">
                 <MyCard
@@ -98,7 +109,7 @@ class Home extends React.Component {
             </div>
             <div class="col"></div>
           </div>
-        </div>
+          </div>
 
         <MDBAnimation reveal type="fadeIn">
           <div>

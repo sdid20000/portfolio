@@ -20,6 +20,7 @@ class MyNavbar extends React.Component {
               <NavDropdown.Item href="Personas">Personas</NavDropdown.Item>
               <div class="dropdown-divider"></div>
               <NavDropdown.Item href="ReSearch">ReSearch</NavDropdown.Item>
+              <NavDropdown.Item href="Buo">BUO Website</NavDropdown.Item>
             </NavDropdown>
             <Nav.Item>
               <Nav.Link href="Music">Music</Nav.Link>
@@ -27,6 +28,7 @@ class MyNavbar extends React.Component {
             <Nav.Item>
               <Nav.Link href="Resume">Resum&eacute;</Nav.Link>
             </Nav.Item>
+
           </Nav>
         </Navbar.Collapse>
       </Navbar>
